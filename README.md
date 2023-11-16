@@ -4,3 +4,8 @@
 
 Uncover the secrets behind TED Talks viewership with this advanced machine learning project. Delving into predictive analytics, I've meticulously crafted this repository to guide you through the intricacies of data science. From preprocessing to feature engineering and model selection, this project equips you with the tools to forecast TED Talks views effectively.
 
+## Key Features
+- **Data Augmentation:** Introduced insightful columns like ratings, sentiment analysis, and speaker popularity for a richer dataset.
+- **Skewness Correction:** Employed techniques to rectify skewness in the data, ensuring a more accurate predictive model.
+- **Regression Models:** Implemented a variety of regression algorithms, including Linear Regression, Random Forest, and Gradient Boosting, to find the most effective predictor.
+
