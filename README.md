@@ -14,3 +14,4 @@ Uncover the secrets behind TED Talks viewership with this advanced machine learn
 - **Sentiment Analysis:** Gave importance to sentiment of talks, adding depth to the analysis.
 - **Speaker Popularity Index:** Introduced a metric to quantify the popularity of speakers based on audience engagement.
 
+This project goes beyond the basics, offering a robust exploration of TED Talks data. Explore and adapt the code to enhance your understanding of data science and predictive modeling. Your journey to unravel the mysteries of TED Talks viewership begins here!
