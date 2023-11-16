@@ -9,3 +9,8 @@ Uncover the secrets behind TED Talks viewership with this advanced machine learn
 - **Skewness Correction:** Employed techniques to rectify skewness in the data, ensuring a more accurate predictive model.
 - **Regression Models:** Implemented a variety of regression algorithms, including Linear Regression, Random Forest, and Gradient Boosting, to find the most effective predictor.
 
+## What Sets This Project Apart
+- **Rating System:** Integrated a comprehensive rating system, considering various factors that contribute to a TED Talk's appeal.
+- **Sentiment Analysis:** Gave importance to sentiment of talks, adding depth to the analysis.
+- **Speaker Popularity Index:** Introduced a metric to quantify the popularity of speakers based on audience engagement.
+
